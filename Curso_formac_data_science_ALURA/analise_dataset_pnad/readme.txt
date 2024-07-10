@@ -34,6 +34,6 @@ The link to access this directory is at the end of this readme. And the techniqu
   - And I compare the values of the Income variable according to other variables.
 
 
-https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2015/microdados.shtm
+https://www.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2015/microdados.shtm
 
 
