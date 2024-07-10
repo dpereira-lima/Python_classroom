@@ -2,7 +2,7 @@ Explicação em Português
 
 Neste diretório realizo com linguagem Python uma analise exploratória no dataset Pesquisa Nacional por Amostra de Domicílios (PNAD) - 2015, obtido do site IBGE.
 
-O link para acesso a este diretório esta no final deste readme. E as técnicas utilizadas foram aprendidas no curso "Aplicando técnicas do curso Estatística com Python: frequências e medidas" da escola #Alura.
+O link para acesso a este diretório esta no final deste readme. E as técnicas utilizadas foram aprendidas no curso "Aplicando técnicas do curso Estatística com Python: frequências e medidas" da escola Alura.
 
   - Primeiro importo as bibliotecas da linguagem Python;
   Abro através da biblioteca Pandas o dataset (arquivo CSV);
@@ -20,7 +20,7 @@ Explanation in Portuguese
 
 In this directory, I perform an exploratory analysis using Python language on the National Household Sample Survey (PNAD) - 2015 dataset, obtained from the IBGE website.
 
-The link to access this directory is at the end of this readme. And the techniques used were learned in the course "Applying techniques from the Statistics with Python course: frequencies and measurements" at the #Alura school.
+The link to access this directory is at the end of this readme. And the techniques used were learned in the course "Applying techniques from the Statistics with Python course: frequencies and measurements" at the Alura school.
 
   - First I import the Python language libraries;
   - I open the dataset (CSV file) through the Pandas library;
