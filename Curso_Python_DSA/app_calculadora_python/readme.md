@@ -1,6 +1,6 @@
-Explicação em Português
+## Explicação em Português
 
-Neste diretório criei uma calculadora em linguagem Python, no modelo de programação estruturada.
+Neste diretório criei uma calculadora, em linguagem Python, no modelo de programação estruturada.
 
 As técnicas utilizadas foram aprendidas no curso "Python Fundamentos" da escola Data Science Academy.
 
@@ -10,9 +10,9 @@ E após ser apresentado o resultado. Será questionado se deseja realizar outra 
 
 
 
-Explanation in Portuguese
+## Explanation in Portuguese
 
-In this directory I created a calculator in Python language, using the structured programming model.
+In this directory I created a calculator, in Python language, using the structured programming model.
 
 The techniques used were learned in the "Python Fundamentals" course at the Data Science Academy school.
 
