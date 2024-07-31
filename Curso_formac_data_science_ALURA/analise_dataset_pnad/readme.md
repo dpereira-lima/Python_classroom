@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório realizo com linguagem Python uma analise exploratória no dataset Pesquisa Nacional por Amostra de Domicílios (PNAD) - 2015, obtido do site IBGE.
 
@@ -16,7 +16,7 @@ O link para acesso a este diretório esta no final deste readme. E as técnicas 
   - E comparo os valores da variável Renda segundo outras variáveis.
 
 
-Explanation in Portuguese
+## Explanation in Portuguese
 
 In this directory, I perform an exploratory analysis using Python language on the National Household Sample Survey (PNAD) - 2015 dataset, obtained from the IBGE website.
 
