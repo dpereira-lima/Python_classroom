@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório aplico, em linguagem Python, o algoritmo Classificador de Sentimentos sobre o dataset Reviews de filmes.
 
@@ -17,7 +17,7 @@ E a aplicação deste algoritmo foi um dos exercícios finais da disciplina Text
   - Segundo a métrica de acerto a porcentagem de acerto foi de 85%.
 
 
-Explanation in English
+## Explanation in English
 
 In this application directory, in Python language, the Sentiment Classifier algorithm on the Movie Reviews dataset.
 
