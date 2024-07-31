@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório aplico algumas técnicas de "feature engineering", com linguagem Python, sobre o dataset Sale Price, obtido do site Kaggle.
 
@@ -15,7 +15,7 @@ Estas técnicas foram aprendidas nas aulas da disciplina Feature Engineering do 
       - E com analise de gráficos verifico que quanto maior o valor do imóvel maior é o preço e quanto maior a qualidade maior é o preço.
 
 
-Explanation in English
+## Explanation in English
 
 In this directory we apply some "feature engineering" techniques, using Python language, on the Sale Price data set, obtained from the Kaggle website.
 
