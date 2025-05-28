@@ -1,5 +1,3 @@
-## Explicação em Português
-
 Neste repositório contém analise exploratório e aplicação de algoritimos de machine learning sobre datasets.
 
 Utilizo neste repositório algumas técnicas aprendidas em cursos e treinamentos da linguagem Python.
@@ -7,8 +5,8 @@ Utilizo neste repositório algumas técnicas aprendidas em cursos e treinamentos
 Os códigos estão separados em dietórios e todos contém arquivo readme com um pequena explicação.
 
 
+--------------------------------------------------------------------------------------------------
 
-## Explanation in English
 
 This repository contains exploratory analysis and application of machine learning algorithms on datasets.
 
