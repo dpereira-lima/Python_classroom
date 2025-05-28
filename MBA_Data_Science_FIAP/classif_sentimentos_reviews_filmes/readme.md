@@ -1,5 +1,3 @@
-## Explicação em Português
-
 Neste diretório aplico, em linguagem Python, o algoritmo Classificador de Sentimentos sobre o dataset Reviews de filmes.
 
 O link da fonte deste dataset está no final deste reeadme.
@@ -17,7 +15,8 @@ E a aplicação deste algoritmo foi um dos exercícios finais da disciplina Text
   - Segundo a métrica de acerto a porcentagem de acerto foi de 85%.
 
 
-## Explanation in English
+----------------------------------------------------------------------------------------------------------------
+
 
 In this application directory, in Python language, the Sentiment Classifier algorithm on the Movie Reviews dataset.
 
@@ -35,5 +34,7 @@ And the application of this algorithm was one of the final exercises of the Text
  - And I train the model;
  - According to the success metric, the success percentage was 85%.
 
+
+----------------------------------------------------------------------------------------------------------------
 
 https://dados-ml-pln.s3-sa-east-1.amazonaws.com/reviews-pt-br.csv
